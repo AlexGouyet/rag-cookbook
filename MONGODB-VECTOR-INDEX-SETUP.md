@@ -14,12 +14,12 @@ This guide walks you through creating vector search indexes in MongoDB Atlas for
 
 1. Log in to [MongoDB Atlas](https://cloud.mongodb.com)
 2. Select your project and cluster
-3. Click the **Atlas Search** tab in the left sidebar
+3. Click the **Search & Vector Search** tab in the left sidebar
 
 ### 2. Create the Index
 
 1. Click **Create Search Index**
-2. Select **Atlas Vector Search**
+2. Select **Vector Search**
 3. Click **JSON Editor** under Configuration Method
 4. Click **Next**
 
