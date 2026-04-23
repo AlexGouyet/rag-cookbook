@@ -24,7 +24,7 @@ OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 # MongoDB configuration
 DB_NAME = "rag_playbook"
 COLLECTION_NAME = "naive_rag"
-INDEX_NAME = "naive"
+INDEX_NAME = "vector_index"  # matches the default name Atlas suggested when creating the index
 
 # Chunking configuration
 CHUNK_SIZE = 1000

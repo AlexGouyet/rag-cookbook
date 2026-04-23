@@ -21,7 +21,7 @@ OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 # MongoDB configuration (must match ingestion.py)
 DB_NAME = "rag_playbook"
 COLLECTION_NAME = "naive_rag"
-INDEX_NAME = "naive"
+INDEX_NAME = "vector_index"  # matches the default name Atlas suggested when creating the index
 
 # Retrieval configuration
 DEFAULT_TOP_K = 5
