@@ -1,4 +1,4 @@
-# Learning log — RAG Cookbook
+# Notes — RAG Cookbook
 
 Working through [Gauntlet-AIDP/rag-cookbook](https://github.com/Gauntlet-AIDP/rag-cookbook) as a hands-on study of Retrieval-Augmented Generation. This fork captures what I do, what I learn, and what I break along the way.
 
